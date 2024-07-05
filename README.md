@@ -28,10 +28,19 @@ I'm a Full Stack Developer and Content Creator building my version of the Digita
 <img align="left" alt="Canva" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <img align="left" alt="VS" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  />
-<br />
-<hr/>
+<br/>
+<br/>
+
+#
+
+### 📊 Statistics
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izaankhan0&show_icons=true&theme=merko)
+![GitHub Streak](https://streak-stats.demolab.com?user=izaankhan0&theme=merko&border_radius=4.5)
 
+#
+
+  
 [instagram]: https://www.instagram.com/thewebdevkhan/
 [linkedin]: https://www.linkedin.com/in/izaan-website-developer/
