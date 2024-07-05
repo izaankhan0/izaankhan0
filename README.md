@@ -41,6 +41,15 @@ I'm a Full Stack Developer and Content Creator building my version of the Digita
 
 #
 
+### 🔗 Socials
+
+
+<p align="left">
+<a href="https://twitter.com/izaankhann" target="blank"><img align="center" style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izaankhann" height="50" width="70" /></a>
+<a href="https://linkedin.com/in/izaan-website-developer" target="blank"><img align="center" style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izaan-website-developer" height="50" width="70" /></a>
+<a href="https://instagram.com/thewebdevkhan" target="blank"><img align="center" style="padding-right:20px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thewebdevkhan" height="50" width="70" /></a>
+</p>
+
   
 [instagram]: https://www.instagram.com/thewebdevkhan/
 [linkedin]: https://www.linkedin.com/in/izaan-website-developer/
