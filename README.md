@@ -28,6 +28,8 @@ I'm a Full Stack Developer and Content Creator building my version of the Digita
 <img align="left" alt="Canva" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <img align="left" alt="VS" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"  />
+<img align="left" alt="Csharp" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  />
 <br/>
 <br/>
 
