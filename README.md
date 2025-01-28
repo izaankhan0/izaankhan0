@@ -55,5 +55,5 @@ I'm a Full Stack Developer and Content Creator building my version of the Digita
 </p>
 
   
-[instagram]: https://www.instagram.com/thewebdevkhan/
+[instagram]: https://www.instagram.com/izaan.js/
 [linkedin]: https://www.linkedin.com/in/izaan-website-developer/
