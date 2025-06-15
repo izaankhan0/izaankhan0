@@ -32,6 +32,7 @@ I'm a Full Stack Developer and Content Creator building my version of the Digita
 <img align="left" alt="Csharp" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  />
 <img align="left" alt="C" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  />
 <img align="left" alt="Cplusplus" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  />
+<img align="left" alt="Cplusplus" width="30px" style="padding-right:10px; padding-top:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"  />
 <br/>
 <br/>
 
